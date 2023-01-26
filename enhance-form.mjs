@@ -1,4 +1,4 @@
-import send from '//github.com/Pfisterville/webhook/blob/main/modules/send.mjs';
+import send from '//raw.githubusercontent.com/Pfisterville/webhook/blob/main/modules/send.mjs';
 import autofocus from '//raw.githubusercontent.com/Pfisterville/webhook/main/modules/autofocus.mjs';
 import formValidationListeners from '//raw.githubusercontent.com/Pfisterville/webhook/main/modules/form-validation-listeners.mjs';
 
