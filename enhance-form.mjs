@@ -1,5 +1,5 @@
 import send from '//github.com/Pfisterville/webhook/blob/main/modules/send.mjs';
-import autofocus from '//github.com/Pfisterville/webhook/blob/main/modules/autofocus.mjs';
+import autofocus from '//raw.githubusercontent.com/Pfisterville/webhook/main/modules/autofocus.mjs';
 import formValidationListeners from '//raw.githubusercontent.com/Pfisterville/webhook/main/modules/form-validation-listeners.mjs';
 
 const ATTR_DISABLED = 'x-disabled';
